@@ -1,2 +1,2 @@
-# CMSC203_Lab2
+# CMSC203_Lab3
 Lab3 java files
